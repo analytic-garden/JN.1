@@ -1,0 +1,109 @@
+alignment columns,reference positions,A,C,G,T,insertions,other,ref_nucleotide,consensus_nucleotide,consensus %,alt_nucleotide,feature_type,codon,ref_aa,alt_codons,alt_aas,aa_pos,mutation,product,notes
+670,670,0,0,197,2,0,2,T,G,98.99497487437185,G,mat_peptide,AGT,S,AGG,R,135.0,S135R,leader protein,nsp1; produced by both pp1a and pp1ab
+897,897,193,7,0,0,0,1,C,A,96.5,A,mat_peptide,GCT,A,GAT,D,31.0,A31D,nsp2,produced by both pp1a and pp1ab
+2790,2790,0,1,0,194,0,6,C,T,99.48717948717949,T,mat_peptide,ACT,T,ATT,I,24.0,T24I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+3037,3037,0,1,0,200,0,0,C,T,99.50248756218906,T,mat_peptide,TTC,F,TTT,F,106.0,F106F,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+3431,3431,0,0,5,192,0,4,G,T,97.46192893401016,T,mat_peptide,GTG,V,TTG,L,238.0,V238L,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4184,4184,200,0,1,0,0,0,G,A,99.50248756218906,A,mat_peptide,GGT,G,AGT,S,489.0,G489S,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4321,4321,0,2,0,195,0,4,C,T,98.98477157360406,T,mat_peptide,GCC,A,GCT,A,534.0,A534A,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7843,7842,6,0,190,0,0,5,A,G,96.93877551020408,G,mat_peptide,AAC,N,AGC,S,1708.0,N1708S,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8294,8293,0,3,0,198,0,0,C,T,98.50746268656717,T,mat_peptide,ACC,T,ACT,T,1858.0,T1858T,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8394,8393,191,0,6,0,0,4,G,A,96.95431472081218,A,mat_peptide,GCT,A,ACT,T,1892.0,A1892T,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+9346,9344,0,1,0,200,0,0,C,T,99.50248756218906,T,mat_peptide,CTT,L,TTT,F,264.0,L264F,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9426,9424,1,0,199,0,0,1,A,G,99.5,G,mat_peptide,GTA,V,GTG,V,290.0,V290V,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9536,9534,0,2,0,197,0,2,C,T,98.99497487437185,T,mat_peptide,ACT,T,ATT,I,327.0,T327I,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+10031,10029,0,1,0,197,0,3,C,T,99.4949494949495,T,mat_peptide,ACC,T,ATC,I,492.0,T492I,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+10200,10198,0,2,0,195,0,4,C,T,98.98477157360406,T,mat_peptide,GAC,D,GAT,D,48.0,D48D,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10449,10447,200,0,1,0,0,0,G,A,99.50248756218906,A,mat_peptide,AGG,R,AGA,R,131.0,R131R,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10451,10449,200,1,0,0,0,0,C,A,99.50248756218906,A,mat_peptide,CCC,P,CAC,H,132.0,P132H,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+11044,11042,0,0,6,193,0,2,G,T,96.98492462311557,T,mat_peptide,GTT,V,TTT,F,24.0,V24F,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+12791,12789,0,4,0,194,0,3,C,T,97.97979797979798,T,mat_peptide,ACA,T,ATA,I,35.0,T35I,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+12882,12880,0,2,0,195,0,4,C,T,98.98477157360406,T,mat_peptide,ATC,I,ATT,I,65.0,I65I,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+13341,13339,0,176,0,14,0,11,T,C,92.63157894736842,C,mat_peptide,AAT,N,AAC,N,105.0,N105N,nsp10,nsp10_CysHis; formerly known as growth-factor-like protein (GFL); produced by both pp1a and pp1ab
+14410,14408,0,1,0,199,0,1,C,T,99.5,T,mat_peptide,CCT,P,CTT,L,314.0,P314L,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15716,15714,0,1,0,200,0,0,C,T,99.50248756218906,T,mat_peptide,CTC,L,CTT,L,749.0,L749L,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15758,15756,192,0,0,4,0,5,T,A,97.95918367346938,A,mat_peptide,TCT,S,TCA,S,763.0,S763S,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+17412,17410,0,2,0,199,0,0,C,T,99.00497512437812,T,mat_peptide,CGT,R,TGT,C,392.0,R392C,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+18165,18163,1,0,196,0,0,4,A,G,99.49238578680203,G,mat_peptide,ATA,I,GTA,V,42.0,I42V,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18494,18492,2,0,198,0,0,1,A,G,99.0,G,mat_peptide,CCA,P,CCG,P,151.0,P151P,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19957,19955,0,1,0,195,0,5,C,T,99.48979591836735,T,mat_peptide,ACT,T,ATT,I,112.0,T112I,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+20057,20055,1,0,193,0,0,7,A,G,99.48453608247422,G,mat_peptide,GAA,E,GAG,E,145.0,E145E,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+21632,21618,0,3,0,167,2,29,C,T,97.09302325581395,T,CDS,ACA,T,ATA,I,19.0,T19I,surface glycoprotein,structural protein; spike protein
+21636,21622,0,12,0,158,0,31,C,T,92.94117647058823,T,CDS,ACC,T,ACT,T,20.0,T20T,surface glycoprotein,structural protein; spike protein
+21638,21624,0,158,12,0,0,31,G,C,92.94117647058823,C,CDS,AGA,R,ACA,T,21.0,R21T,surface glycoprotein,structural protein; spike protein
+21725,21711,0,6,0,177,0,18,C,T,96.72131147540983,T,CDS,TCA,S,TTA,L,50.0,S50L,surface glycoprotein,structural protein; spike protein
+21955,21941,0,0,2,195,0,4,G,T,98.98477157360406,T,CDS,GTT,V,TTT,F,127.0,V127F,surface glycoprotein,structural protein; spike protein
+22001,21987,187,0,2,0,0,12,G,A,98.94179894179894,A,CDS,GGT,G,GAT,D,142.0,G142D,surface glycoprotein,structural protein; spike protein
+22046,22032,0,190,0,7,0,4,T,C,96.44670050761421,C,CDS,TTC,F,TCC,S,157.0,F157S,surface glycoprotein,structural protein; spike protein
+22047,22033,188,7,0,0,0,6,C,A,96.41025641025641,A,CDS,TTC,F,TTA,L,157.0,F157L,surface glycoprotein,structural protein; spike protein
+22048,22034,2,0,188,0,0,11,A,G,98.94736842105263,G,CDS,AGA,R,GGA,G,158.0,R158G,surface glycoprotein,structural protein; spike protein
+22214,22200,1,0,192,2,0,6,T,G,98.46153846153847,G,CDS,GTG,V,GGG,G,213.0,V213G,surface glycoprotein,structural protein; spike protein
+22231,22208,0,3,0,191,0,7,C,T,98.4536082474227,T,CDS,CTC,L,TTC,F,216.0,L216F,surface glycoprotein,structural protein; spike protein
+22318,22295,190,4,0,0,0,7,C,A,97.9381443298969,A,CDS,CAT,H,AAT,N,245.0,H245N,surface glycoprotein,structural protein; spike protein
+22376,22353,183,4,0,0,0,14,C,A,97.86096256684492,A,CDS,GCT,A,GAT,D,264.0,A264D,surface glycoprotein,structural protein; spike protein
+22579,22556,2,0,195,0,0,4,A,G,98.98477157360406,G,CDS,ATT,I,GTT,V,332.0,I332V,surface glycoprotein,structural protein; spike protein
+22600,22577,0,197,1,0,0,3,G,C,99.4949494949495,C,CDS,GGT,G,CGT,R,339.0,G339R,surface glycoprotein,structural protein; spike protein
+22601,22578,197,0,1,0,0,3,G,A,99.4949494949495,A,CDS,GGT,G,GAT,D,339.0,G339D,surface glycoprotein,structural protein; spike protein
+22652,22629,3,188,0,0,0,10,A,C,98.42931937172776,C,CDS,AAG,K,ACG,T,356.0,K356T,surface glycoprotein,structural protein; spike protein
+22697,22674,0,1,0,192,0,8,C,T,99.48186528497409,T,CDS,TCC,S,TTC,F,371.0,S371F,surface glycoprotein,structural protein; spike protein
+22702,22679,0,193,0,1,0,7,T,C,99.48453608247422,C,CDS,TCA,S,CCA,P,373.0,S373P,surface glycoprotein,structural protein; spike protein
+22709,22686,0,1,0,191,0,9,C,T,99.47916666666666,T,CDS,TCC,S,TTC,F,375.0,S375F,surface glycoprotein,structural protein; spike protein
+22711,22688,1,0,190,0,0,10,A,G,99.47643979057592,G,CDS,ACT,T,GCT,A,376.0,T376A,surface glycoprotein,structural protein; spike protein
+22793,22770,178,0,5,0,0,18,G,A,97.26775956284153,A,CDS,AGA,R,AAA,K,403.0,R403K,surface glycoprotein,structural protein; spike protein
+22798,22775,195,0,1,0,0,5,G,A,99.48979591836735,A,CDS,GAT,D,AAT,N,405.0,D405N,surface glycoprotein,structural protein; spike protein
+22809,22786,9,184,0,0,0,8,A,C,95.33678756476684,C,CDS,AGA,R,AGC,S,408.0,R408S,surface glycoprotein,structural protein; spike protein
+22836,22813,0,0,2,183,0,16,G,T,98.91891891891892,T,CDS,AAG,K,AAT,N,417.0,K417N,surface glycoprotein,structural protein; spike protein
+22905,22882,0,0,181,1,0,19,T,G,99.45054945054946,G,CDS,AAT,N,AAG,K,440.0,N440K,surface glycoprotein,structural protein; spike protein
+22918,22895,0,181,1,0,0,19,G,C,99.45054945054946,C,CDS,GTT,V,CTT,L,445.0,V445L,surface glycoprotein,structural protein; spike protein
+22919,22896,176,4,0,1,0,20,T,A,97.23756906077348,A,CDS,GTT,V,GAT,D,445.0,V445D,surface glycoprotein,structural protein; spike protein
+22921,22898,180,0,1,0,0,20,G,A,99.4475138121547,A,CDS,GGT,G,AGT,S,446.0,G446S,surface glycoprotein,structural protein; spike protein
+22933,22910,6,0,178,0,0,17,A,G,96.73913043478261,G,CDS,AAT,N,GAT,D,450.0,N450D,surface glycoprotein,structural protein; spike protein
+22939,22916,0,6,0,174,0,21,C,T,96.66666666666667,T,CDS,CTG,L,TTG,L,452.0,L452L,surface glycoprotein,structural protein; spike protein
+22940,22917,0,0,174,7,0,20,T,G,96.13259668508287,G,CDS,CTG,L,CGG,R,452.0,L452R,surface glycoprotein,structural protein; spike protein
+22965,22942,177,0,4,5,0,15,T,A,95.16129032258065,A,CDS,AAT,N,AAA,K,460.0,N460K,surface glycoprotein,structural protein; spike protein
+23015,22992,191,0,1,0,0,9,G,A,99.47916666666666,A,CDS,AGC,S,AAC,N,477.0,S477N,surface glycoprotein,structural protein; spike protein
+23018,22995,189,1,2,0,0,9,C,A,98.4375,A,CDS,ACA,T,AAA,K,478.0,T478K,surface glycoprotein,structural protein; spike protein
+23028,23005,184,0,0,5,0,12,T,A,97.35449735449735,A,CDS,AAT,N,AAA,K,481.0,N481K,surface glycoprotein,structural protein; spike protein
+23035,23012,177,0,11,0,0,13,G,A,94.14893617021278,A,CDS,GAA,E,AAA,K,484.0,E484K,surface glycoprotein,structural protein; spike protein
+23041,23018,0,190,0,1,0,10,T,C,99.47643979057592,C,CDS,TTT,F,CTT,L,486.0,F486L,surface glycoprotein,structural protein; spike protein
+23042,23019,0,190,0,1,0,10,T,C,99.47643979057592,C,CDS,TTT,F,TCT,S,486.0,F486S,surface glycoprotein,structural protein; spike protein
+23078,23055,1,0,189,0,0,11,A,G,99.47368421052632,G,CDS,CAA,Q,CGA,R,498.0,Q498R,surface glycoprotein,structural protein; spike protein
+23086,23063,1,0,0,189,0,11,A,T,99.47368421052632,T,CDS,AAT,N,TAT,Y,501.0,N501Y,surface glycoprotein,structural protein; spike protein
+23098,23075,0,190,0,1,0,10,T,C,99.47643979057592,C,CDS,TAC,Y,CAC,H,505.0,Y505H,surface glycoprotein,structural protein; spike protein
+23245,23222,197,0,3,0,0,1,G,A,98.5,A,CDS,GAG,E,AAG,K,554.0,E554K,surface glycoprotein,structural protein; spike protein
+23294,23271,0,3,0,195,0,3,C,T,98.48484848484848,T,CDS,GCT,A,GTT,V,570.0,A570V,surface glycoprotein,structural protein; spike protein
+23426,23403,1,0,187,0,0,13,A,G,99.46808510638297,G,CDS,GAT,D,GGT,G,614.0,D614G,surface glycoprotein,structural protein; spike protein
+23446,23423,0,4,0,181,0,16,C,T,97.83783783783784,T,CDS,CCT,P,TCT,S,621.0,P621S,surface glycoprotein,structural protein; spike protein
+23548,23525,0,1,0,185,0,15,C,T,99.46236559139786,T,CDS,CAT,H,TAT,Y,655.0,H655Y,surface glycoprotein,structural protein; spike protein
+23622,23599,0,0,185,1,0,15,T,G,99.46236559139786,G,CDS,AAT,N,AAG,K,679.0,N679K,surface glycoprotein,structural protein; spike protein
+23627,23604,5,1,181,0,0,14,C,G,96.79144385026738,G,CDS,CCT,P,CGT,R,681.0,P681R,surface glycoprotein,structural protein; spike protein
+23877,23854,184,1,0,0,0,16,C,A,99.45945945945947,A,CDS,AAC,N,AAA,K,764.0,N764K,surface glycoprotein,structural protein; spike protein
+23971,23948,0,0,1,182,0,18,G,T,99.4535519125683,T,CDS,GAT,D,TAT,Y,796.0,D796Y,surface glycoprotein,structural protein; spike protein
+24401,24378,0,3,0,193,0,5,C,T,98.46938775510205,T,CDS,TCT,S,TTT,F,939.0,S939F,surface glycoprotein,structural protein; spike protein
+24447,24424,1,0,0,196,0,4,A,T,99.49238578680203,T,CDS,CAA,Q,CAT,H,954.0,Q954H,surface glycoprotein,structural protein; spike protein
+24492,24469,197,0,0,1,0,3,T,A,99.4949494949495,A,CDS,AAT,N,AAA,K,969.0,N969K,surface glycoprotein,structural protein; spike protein
+25013,24990,0,3,0,196,0,2,C,T,98.49246231155779,T,CDS,CCT,P,CTT,L,1143.0,P1143L,surface glycoprotein,structural protein; spike protein
+25023,25000,0,1,0,200,0,0,C,T,99.50248756218906,T,CDS,GAC,D,GAT,D,1146.0,D1146D,surface glycoprotein,structural protein; spike protein
+25230,25207,0,5,0,193,0,3,C,T,97.47474747474747,T,CDS,TAC,Y,TAT,Y,1215.0,Y1215Y,surface glycoprotein,structural protein; spike protein
+25607,25584,0,1,0,200,0,0,C,T,99.50248756218906,T,CDS,ACC,T,ACT,T,64.0,T64T,ORF3a protein,
+26083,26060,0,1,0,200,0,0,C,T,99.50248756218906,T,CDS,ACT,T,ATT,I,223.0,T223I,ORF3a protein,
+26293,26270,0,1,0,200,0,0,C,T,99.50248756218906,T,CDS,ACA,T,ATA,I,9.0,T9I,envelope protein,ORF4; structural protein; E protein
+26552,26529,0,189,6,0,0,6,G,C,96.92307692307692,C,CDS,GAT,D,CAT,H,3.0,D3H,membrane glycoprotein,ORF5; structural protein
+26600,26577,0,4,186,0,0,11,C,G,97.89473684210527,G,CDS,CAA,Q,GAA,E,19.0,Q19E,membrane glycoprotein,ORF5; structural protein
+26633,26610,8,0,179,0,0,14,A,G,95.72192513368985,G,CDS,ACA,T,GCA,A,30.0,T30A,membrane glycoprotein,ORF5; structural protein
+26704,26681,0,5,0,193,0,3,C,T,97.47474747474747,T,CDS,TTC,F,TTT,F,53.0,F53F,membrane glycoprotein,ORF5; structural protein
+26732,26709,198,0,1,0,0,2,G,A,99.49748743718592,A,CDS,GCT,A,ACT,T,63.0,A63T,membrane glycoprotein,ORF5; structural protein
+26856,26833,0,4,0,194,0,3,C,T,97.97979797979798,T,CDS,GCG,A,GTG,V,104.0,A104V,membrane glycoprotein,ORF5; structural protein
+26881,26858,0,1,0,197,0,3,C,T,99.4949494949495,T,CDS,TTC,F,TTT,F,112.0,F112F,membrane glycoprotein,ORF5; structural protein
+27282,27259,1,200,0,0,0,0,A,C,99.50248756218906,C,CDS,AGG,R,CGG,R,20.0,R20R,ORF6 protein,
+27405,27382,0,199,1,0,0,1,G,C,99.5,C,CDS,GAT,D,CAT,H,61.0,D61H,ORF6 protein,
+27406,27383,1,0,0,198,0,2,A,T,99.49748743718592,T,CDS,GAT,D,GTT,V,61.0,D61V,ORF6 protein,
+27407,27384,0,196,0,3,0,2,T,C,98.49246231155779,C,CDS,GAT,D,GAC,D,61.0,D61D,ORF6 protein,
+27830,27807,0,2,0,199,0,0,C,T,99.00497512437812,T,CDS,CTA,L,TTA,L,18.0,L18L,ORF7b,
+28294,28271,1,0,0,200,0,0,A,T,99.50248756218906,T,source,TAA,*,TTA,L,9424.0,*9424L,,
+28334,28311,0,1,0,200,0,0,C,T,99.50248756218906,T,CDS,CCC,P,CTC,L,13.0,P13L,nucleocapsid phosphoprotein,ORF9; structural protein
+28904,28881,200,0,1,0,0,0,G,A,99.50248756218906,A,CDS,AGG,R,AAG,K,203.0,R203K,nucleocapsid phosphoprotein,ORF9; structural protein
+28905,28882,200,0,1,0,0,0,G,A,99.50248756218906,A,CDS,AGG,R,AGA,R,203.0,R203R,nucleocapsid phosphoprotein,ORF9; structural protein
+28906,28883,0,200,1,0,0,0,G,C,99.50248756218906,C,CDS,GGA,G,CGA,R,204.0,G204R,nucleocapsid phosphoprotein,ORF9; structural protein
+28981,28958,196,5,0,0,0,0,C,A,97.51243781094527,A,CDS,CAG,Q,AAG,K,229.0,Q229K,nucleocapsid phosphoprotein,ORF9; structural protein
+29533,29510,1,199,0,0,0,1,A,C,99.5,C,CDS,AGT,S,CGT,R,413.0,S413R,nucleocapsid phosphoprotein,ORF9; structural protein
